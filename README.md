@@ -79,7 +79,7 @@ CryptaSentinel-Live/
 
 ### 1. Clone & Create Virtual Environment
 ```powershell
-git clone https://github.com
+git clone https://github.com/nishajas291-crypto/CryptaSentinel-AI-Live.git
 cd CryptaSentinel-AI
 python -m venv venv
 .\venv\Scripts\Activate.ps1
